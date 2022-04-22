@@ -9,3 +9,4 @@ export * from './interfaces/PubsubTopic';
 export * from './interfaces/ResolverContext';
 export * from './interfaces/ServiceContext';
 export * from './interfaces/StorageKind';
+export * from './interfaces/KVAdapter';
